@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612460485 source:c:\users\kerim\desktop\program Çalýþmalarý\c\kare_sayýsý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
